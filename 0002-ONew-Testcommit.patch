@@ -1,0 +1,21 @@
+From b3da692184518db70371d1a67a2b03059eda95d2 Mon Sep 17 00:00:00 2001
+From: daemonfire300 <info@accountr.eu>
+Date: Fri, 9 Oct 2009 18:01:54 +0200
+Subject: [PATCH] ONew Testcommit
+
+---
+ sometext.txt |    1 +
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+ create mode 100644 sometext.txt
+
+diff --git a/sometext.txt b/sometext.txt
+new file mode 100644
+index 0000000..b4b13bc
+--- /dev/null
++++ b/sometext.txt
+@@ -0,0 +1 @@
++badsfgdfhdsfh
+\ No newline at end of file
+-- 
+1.6.0.4
+

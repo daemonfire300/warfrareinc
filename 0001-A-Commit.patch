@@ -1,0 +1,21 @@
+From d8f6521466eecd7744cee70f49a34ad2a4b72e8a Mon Sep 17 00:00:00 2001
+From: root <root@root2-desktop.(none)>
+Date: Fri, 9 Oct 2009 17:45:15 +0200
+Subject: [PATCH] A Commit
+
+---
+ somefile.txt |    1 +
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+ create mode 100644 somefile.txt
+
+diff --git a/somefile.txt b/somefile.txt
+new file mode 100644
+index 0000000..21e64d5
+--- /dev/null
++++ b/somefile.txt
+@@ -0,0 +1 @@
++this is a file
+\ No newline at end of file
+-- 
+1.6.0.4
+
